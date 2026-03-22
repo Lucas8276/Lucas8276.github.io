@@ -32,6 +32,10 @@ Mi objetivo es analizar y optimizar los flujos de trabajo dentro de las organiza
 * **Sistema Baterias Bernal**:Se realizó un sistema operacional para un cliente Baterias Bernal  .
   * [Ver en GitHub](https://github.com/nagugubox/rooftop.git)
   * *Cliente:* Baterias Bernal.
+## 📄 Experiencia 
+* **SUPERMERCADOS PARADA CANGA**: Experiencia en el aréa de Soporte/IT , además de nuevas implementaciones en el area operacional de la empresa. Demostrando mejoras en el control de los procesos. 
+  
+* **Bateria Bernal**: Elaboración de un sistema ERP,  para Baterías Bernal en PHP.   
 ## 📄 CV
 [Descargar mi CV aquí](#)
 
