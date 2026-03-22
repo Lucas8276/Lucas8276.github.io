@@ -3,9 +3,20 @@
 
 ---
 
-## 📌 Datos personales
-**Nombre:** Lucas Nahuel Quintana Florentin
+## 📌 Sobre mi
+Soy estudiante de **Ingeniería en Sistemas de Información** en la **Universidad de la Cuenca del Plata (UCP)**. Mi enfoque profesional combina la capacidad técnica con la resolución de problemas orientada al usuario final.
 
+Me apasiona actuar como **puente estratégico** entre las necesidades de los usuarios y el equipo de desarrollo. Me considero una persona **persistente, resolutiva y transparente**, con una fuerte base de **inteligencia emocional** para gestionar equipos y procesos.
+
+Mi objetivo es analizar y optimizar los flujos de trabajo dentro de las organizaciones, brindando propuestas innovadoras que mejoren la eficiencia y la experiencia tecnológica.
+
+* 📍 Corrientes, Argentina.
+* 🛠️ **Enfoque:** Análisis de Procesos, Soporte IT y Gestión de Requerimientos.
+* 🗣️ **Hablo:** Español (Nativo) e Inglés (Técnico).
+## 🛠️ Stack y Herramientas
+* **Análisis:** Relevamiento de requisitos.
+* **Soporte:** Gestión de incidencias, Atención al cliente interno.
+* **Tecnologías:** Git/GitHub, SQL,  Trello , PHP , Python, Javascript. 
 ## 📞 Contacto
 **Email:** lucasnahuquin@gmail.com
 
