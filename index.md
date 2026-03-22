@@ -1,4 +1,4 @@
-# Lucas8276 mi Github
+# Lucas Nahuel Quintana Florentin
 ### Analista en Sistemas/ Estudiante Avanzado de Sistemas
 
 ---
